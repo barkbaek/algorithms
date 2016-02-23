@@ -72,3 +72,4 @@ public class Main1463 {
                 System.out.println(count4One(n));
         }
 }
+
