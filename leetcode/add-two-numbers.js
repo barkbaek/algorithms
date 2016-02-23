@@ -36,3 +36,4 @@ var computeNode = function (a, b, c) {
     }
     return node;
 }
+
